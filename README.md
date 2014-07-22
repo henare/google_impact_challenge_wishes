@@ -1,1 +1,1 @@
-This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation)
+Scrapes the "wishes" from the [Australian Google Impact Challenge](https://impactchallenge.withgoogle.com/australia2014) site
